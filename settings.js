@@ -3,9 +3,9 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR Teha ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 94711310617
 WEB SITE - http://queenelisa.42web.io/
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
@@ -23,11 +23,11 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true "
 global.READ_MASSAGE = true
 //👇 enable desable Girls Voice Reply
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want desable use "false"
 global.AUTO_BIO = true
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK = true
+global.INBOX_BLOCK = false
 //👇 Auto react 
 global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )
@@ -43,7 +43,7 @@ global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
 global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
-global.BOT_OFFLINE = true
+global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
@@ -52,15 +52,15 @@ global.UPLOAD_MAX = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['265997133051'] 
+global.owner = ['94711310617'] 
 //👇 Your Caption ( Image Video )
 global.cap = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙴𝙻𝙸𝚂𝙰 𝙼𝙰𝚇 𝙱𝙾𝚃*'
 //👇 Your Bot Name
 global.botnma =  '*ELISA MAX BOT*' 
 //👇 Your name
-global.ownernma =  '*AUSTIN MAX*' 
+global.ownernma =  '*Tehan Max*' 
 //👇 Sticker Author Name
-global.packname =  'AUSTIN MAX' 
+global.packname =  'TEHAN MAX' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'Do not text Bot your number will be blocked in 5seconds !!!'
 //👇 Owner React Imoji
@@ -70,7 +70,7 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '😎|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Blantyre'
 //👇 Removebg Api key
@@ -82,7 +82,7 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hello Elisa Max Bot is online`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hello Elisa Max Bot is online MAMA ONLINE BN`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -92,7 +92,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Desable PM Block numbers
-global.NO_BLOCK = ["265997133051","94719574492"]
+global.NO_BLOCK = ["94766888342","94704663915"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
@@ -124,24 +124,24 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     IMG_BLOCK : "This Word is Ban from image downloader",
-    BAD_DETECT : '',
-    BLOCK : '',
-    UNBLOCK : '',
-    KICK : '',
-    ADD : '',
-    LEAVE : '',
-    PROMOTE : '',
-    DEMOTE : ''
+    BAD_DETECT : 'Huththige putho kunuharapa danna epa🤬',
+    BLOCK : 'Ubawa Block Kara😋',
+    UNBLOCK : 'HEE Ubawa Unblock Kara😍',
+    KICK : 'Palayan Yanna😙',
+    ADD : 'Welcome Gys WAdi wada onne hariye😃😀',
+    LEAVE : 'Bye Bye🖐',
+    PROMOTE : 'I,am Alive',
+    DEMOTE : 'I,am Not alive'
 }
 
 
 
 
 //other
-global.pemilik = ['265997133051'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['265997133051'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Austin Max' // Your name ඔබේ නම 
-global.sessionName = 'session'
+global.pemilik = ['94765888342'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['9471130617'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'TEHAn Max' // Your name ඔබේ නම 
+global.sessionName = 'session TIKKA'
 global.prefix = ['.'] 
 global.sp = '👽'
 global.weem = 'AUSTIN MAX'
